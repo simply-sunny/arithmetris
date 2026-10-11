@@ -6,7 +6,6 @@
 
 Clear the stack. Outlast the boss.
 
-[![Checks](https://github.com/simply-sunny/arithmetris/actions/workflows/checks.yml/badge.svg)](https://github.com/simply-sunny/arithmetris/actions/workflows/checks.yml)
 **React 19 · TypeScript · Vite**
 
 ![Arithmetris terminal homepage](docs/images/home.jpg)
