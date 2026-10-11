@@ -7,9 +7,7 @@
 Estimate. Clear the stack. Outlast the boss.
 
 [![Checks](https://github.com/simply-sunny/arithmetris/actions/workflows/checks.yml/badge.svg)](https://github.com/simply-sunny/arithmetris/actions/workflows/checks.yml)
-![React](https://img.shields.io/badge/React_19-131a19?style=flat&logo=react&logoColor=b1c5b5)
-![TypeScript](https://img.shields.io/badge/TypeScript-131a19?style=flat&logo=typescript&logoColor=b1c5b5)
-![Vite](https://img.shields.io/badge/Vite-131a19?style=flat&logo=vite&logoColor=b1c5b5)
+**React 19 · TypeScript · Vite**
 
 ![Arithmetris terminal homepage](docs/images/home.jpg)
 
