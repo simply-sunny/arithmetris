@@ -2,8 +2,6 @@
 
 # arithmetris.
 
-**Calculus under pressure.**
-
 Clear the stack. Outlast the boss.
 
 **React 19 · TypeScript · Vite**
